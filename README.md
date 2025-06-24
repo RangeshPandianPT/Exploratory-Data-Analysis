@@ -37,7 +37,17 @@ This repository contains an exploratory data analysis (EDA) of a movie dataset f
 
 ---
 
+## Plots and Graphs 
 
+![Image](https://github.com/user-attachments/assets/fde70b8a-28e1-434a-a445-50f6c4109d05)
+
+![Image](https://github.com/user-attachments/assets/8694a61c-33e0-4d04-936e-a7ab63ff554c)
+
+![Image](https://github.com/user-attachments/assets/a775ae5e-e81d-402e-8add-2cfd8bce8e4d)
+
+![Image](https://github.com/user-attachments/assets/db1f0ba0-dccb-43ba-a414-1c1ff0e46aa7)
+
+---
 
 ## 🔍 Key Observations
 
@@ -97,27 +107,15 @@ You can install them via:
 pip install pandas matplotlib seaborn jupyter
 
 
----
-
-📌 License
-
-This project is open-source and available under the MIT License.
-
-
----
-
-🤝 Contributing
-
-Pull requests and improvements are welcome! Please feel free to fork this project and suggest changes.
 
 
 ---
 
 📬 Contact
 
-Created by [Your Name]
-GitHub: yourusername
+Created by RANGESHPANDIAN PT
+GitHub: RangeshPandian PT
+Email : rangeshpandian@gmail.com
 
 ---
 
-Let me know if you'd like the requirements.txt file or help publishing to GitHub!
